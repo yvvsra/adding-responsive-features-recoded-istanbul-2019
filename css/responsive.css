@@ -46,7 +46,7 @@
 }
 
 @media only screen and (max-width:750px){
-    .col1, .col2, .col-3{
+    .col-1, .col-2, .col-3{
         width:100%;
         margin-left: 0;
         float: none;
